@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Common Upgrade Demo</string>
+
+    <string name="btn_txt">Check Updates Version</string>
+    <string name="check_tip">Checking for new version, please wait...</string>
+    <string name="setup_api_tip">Before using this demo, please create one api for your app\'s upgrade on your server, then modify constant \'APP_UPDATE_SERVER_URL\' in MainActivity</string>
+</resources>

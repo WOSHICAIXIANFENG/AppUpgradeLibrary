@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Common Upgrade Demo</string>
+
+    <string name="btn_txt">检查当前版本</string>
+    <string name="check_tip">正在检查是否有新版本，请稍等</string>
+    <string name="setup_api_tip">在使用之前你需要在你的server端为你的App创建你的升级api，然后修改MainActivity里的APP_UPDATE_SERVER_URL</string>
+</resources>

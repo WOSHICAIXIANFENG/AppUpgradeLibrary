@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Upgrade Library</string>
+
+    <string name="newUpdateAvailable">New update available</string>
+    <string name="dialogPositiveButton">Update</string>
+    <string name="dialogNegativeButton">Later</string>
+    <string name="app_no_new_update">No new updates</string>
+    <string name="app_no_update">Current is the latest version</string>
+    <string name="download_progress">Downloading:%1$d%%</string>
+    <string name="download_success">Download completed, click to install</string>
+</resources>
